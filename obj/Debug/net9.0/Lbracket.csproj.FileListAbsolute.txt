@@ -1,0 +1,15 @@
+/Users/ksnaik/Projects/Lbracket/bin/Debug/net9.0/Lbracket
+/Users/ksnaik/Projects/Lbracket/bin/Debug/net9.0/Lbracket.deps.json
+/Users/ksnaik/Projects/Lbracket/bin/Debug/net9.0/Lbracket.runtimeconfig.json
+/Users/ksnaik/Projects/Lbracket/bin/Debug/net9.0/Lbracket.dll
+/Users/ksnaik/Projects/Lbracket/bin/Debug/net9.0/Lbracket.pdb
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.AssemblyInfoInputs.cache
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.AssemblyInfo.cs
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.csproj.CoreCompileInputs.cache
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.sourcelink.json
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.dll
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/refint/Lbracket.dll
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.pdb
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/Lbracket.genruntimeconfig.cache
+/Users/ksnaik/Projects/Lbracket/obj/Debug/net9.0/ref/Lbracket.dll
